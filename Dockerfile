@@ -6,6 +6,6 @@ COPY . /app
 
 RUN yarn install
 
-CMD yarn run serve
+CMD yarn serve
 
 EXPOSE 8080

@@ -1,5 +1,5 @@
-version: '3'
-services:    
+version: "3"
+services:
   matrona.local:
     container_name: matrona-ui
     build:
@@ -7,4 +7,4 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - ./app
+      - ./:/app
