@@ -8,4 +8,4 @@ RUN yarn install
 
 CMD yarn serve
 
-EXPOSE 8080
+EXPOSE 8081
