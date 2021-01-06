@@ -6,7 +6,10 @@
 </template>
 
 <style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 .home {
-  text-align: center
+  text-align: center;
+  font-family: Lato;
 }
 </style>
