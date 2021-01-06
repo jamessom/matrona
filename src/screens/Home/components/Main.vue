@@ -1,5 +1,12 @@
 <template>
-  <div>
-    <h1>HOME PAGE</h1>
+  <div class="home">
+    <h1>Matrona</h1>
+    <img src="@/assets/logo.png"/>
   </div>
 </template>
+
+<style scoped>
+.home {
+  text-align: center
+}
+</style>
